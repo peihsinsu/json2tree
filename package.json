@@ -1,0 +1,30 @@
+{
+  "name": "json2tree",
+  "description": "Json to Tree Utility",
+  "version": "0.0.1",
+  "author": {
+    "name": "Simon Su",
+    "email": "simonsu.mail@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Simon Su",
+      "email": "simonsu.mail@gmail.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "keywords": [
+    "json","ul","tree","utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peihsinsu/json2tree"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "optionalDependencies": {},
+  "_from": "peihsinsu"
+}
