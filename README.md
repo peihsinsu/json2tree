@@ -63,3 +63,6 @@ Output:
 ```
 <ul id="browser" class="filetree"><span style="font-size:+1">MiCloud Wiki</span><li><span class="folder">Level 1 Folder</span><ul> <li><span class="file"><a href="http://www.google.com">node1</a></span></li><li><span class="folder">Level 2 Folder</span><ul> <li><span class="file"><a href="http://www.google.com">node1.1</a></span></li><li><span class="file"><a href="http://www.google.com">node1.2</a></span></li></ul></li></ul></li></ul>
 ```
+
+Page View:
+<iframe src="test.html" width="500px" height="300px"></iframe>
