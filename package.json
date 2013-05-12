@@ -13,6 +13,7 @@
     }
   ],
   "dependencies": {
+    "nodeutil":"0.0.20"
   },
   "keywords": [
     "json","ul","tree","utility"
