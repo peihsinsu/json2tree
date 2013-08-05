@@ -3,6 +3,12 @@ JSON to TREE
 
 This project is a utility for configure a json and parse to ul/li tree.
 
+Installation
+===
+```
+npm install json2tree
+```
+
 JSON format
 ===
 Sample of configure
